@@ -1,0 +1,11 @@
+C:\Python27\python.exe "C:/Users/TehMaal/PycharmProjects/Client Works/Web/GdriveDirectDownload.py"
+Given Link: https://docs.google.com/file/d/0B0rP928erB3KekVvWmRCTEZPNWM/preview?pli=1
+-----Details-----
+ID : 0B0rP928erB3KekVvWmRCTEZPNWM
+Title : Double Impact 1991.mkv
+Owner : [u'Jonobaccin Hamburg']
+Size : 897.18 MB
+Sharing Link : https://drive.google.com/file/d/0B0rP928erB3KekVvWmRCTEZPNWM/view?usp=drivesdk
+Download Link : https://docs.google.com/uc?id=0B0rP928erB3KekVvWmRCTEZPNWM&export=download
+
+Process finished with exit code 0
